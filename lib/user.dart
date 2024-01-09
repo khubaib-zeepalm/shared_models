@@ -1,5 +1,5 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
-library shared_models;
+library user;
 import 'dart:convert';
 
 class Users {
